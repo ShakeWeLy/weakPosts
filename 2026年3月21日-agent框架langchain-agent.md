@@ -1,7 +1,10 @@
 ---
 title: 2026年3月21日 agent框架langchain_agent
 date: 2026-03-21 16:14:07
+category: AI & ML
+subcategory: Agent
 tags:
+  - agent
 ---
 
 > 1

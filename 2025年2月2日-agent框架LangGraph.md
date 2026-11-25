@@ -1,7 +1,10 @@
 ---
 title: 2025年2月2日 agent框架LangGraph
 date: 2026-02-02 14:21:00
-tags: agent
+category: AI & ML
+subcategory: Agent
+tags:
+  - agent
 ---
 
 > https://zhuanlan.zhihu.com/p/1934589308813156455

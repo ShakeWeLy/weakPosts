@@ -1,8 +1,10 @@
 ---
 title: 2026年7月15日 agent memory
 date: 2026-07-15 20:34:30
+category: AI & ML
+subcategory: Agent
 tags:
-
+  - agent
 ---
 
 

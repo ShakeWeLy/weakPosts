@@ -1,7 +1,10 @@
 ---
 title: 2025年1月25日 Segmentation模型
 date: 2025-02-10 15:29:02
-tags: model
+category: AI & ML
+subcategory: CV
+tags:
+  - model
 ---
 
 

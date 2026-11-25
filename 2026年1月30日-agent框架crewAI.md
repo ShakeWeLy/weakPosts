@@ -1,7 +1,10 @@
 ---
 title: 2026年1月30日 agent框架crewAI
 date: 2026-01-31 13:55:13
-tags: agent
+category: AI & ML
+subcategory: Agent
+tags:
+  - agent
 ---
 
 > https://zhuanlan.zhihu.com/p/1960361706967536590

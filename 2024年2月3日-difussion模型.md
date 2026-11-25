@@ -1,7 +1,10 @@
 ---
 title: 2024年2月3日 difussion模型
 date: 2024-02-03 20:02:30
-tags: model
+category: AI & ML
+subcategory: CV
+tags:
+  - model
 ---
 
 # difussion模型

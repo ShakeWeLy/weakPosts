@@ -1,7 +1,10 @@
 ---
 title: 2026年9月17日 Transformer
 date: 2026-09-17 21:41:08
-tags: NLP 
+category: AI & ML
+subcategory: NLP
+tags:
+  - nlp
 ---
 
 > 补充对Transformer的理解

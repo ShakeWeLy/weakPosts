@@ -1,7 +1,10 @@
 ---
 title: 2026年6月11日 cpp learn
 date: 2026-06-11 20:13:02
+category: Engineering
+subcategory: Backend
 tags:
+  - cpp
 ---
 
 有了 GPU 支持，你可以进行 GPU 加速的计算：

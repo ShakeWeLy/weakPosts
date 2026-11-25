@@ -1,7 +1,10 @@
 ---
 title: 2024年3月3日 python内存管理
 date: 2024-03-13 20:51:35
-tags: python
+category: Engineering
+subcategory: Python
+tags:
+  - python
 ---
 
 

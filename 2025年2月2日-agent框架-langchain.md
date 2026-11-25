@@ -1,7 +1,10 @@
 ---
 title: 2025年2月2日 agent框架 langchain
 date: 2025-02-02 09:28:02
+category: AI & ML
+subcategory: Agent
 tags:
+  - agent
 ---
 
 > 1

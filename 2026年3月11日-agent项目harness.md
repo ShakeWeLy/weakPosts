@@ -1,8 +1,10 @@
 ---
 title: 2026年3月11日 agent项目
 date: 2026-03-11 09:18:51
+category: AI & ML
+subcategory: Agent
 tags:
-
+  - agent
 ---
 
 

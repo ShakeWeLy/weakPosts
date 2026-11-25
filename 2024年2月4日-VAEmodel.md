@@ -1,7 +1,11 @@
 ---
 title: 2024年2月4日 AE.VAEmodel
 date: 2024-02-04 15:38:05
-tags: llm;dl
+category: AI & ML
+subcategory: DL
+tags:
+  - dl
+  - llm
 ---
 
 

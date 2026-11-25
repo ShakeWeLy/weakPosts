@@ -1,10 +1,13 @@
 ---
 title: 2026年6月26日 attention
 date: 2026-06-26 09:42:09
+category: AI & ML
+subcategory: DL
 tags:
+  - dl
 ---
 
-
+> 注意力机制详解
 
 
 

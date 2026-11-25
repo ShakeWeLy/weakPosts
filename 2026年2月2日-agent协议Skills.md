@@ -1,7 +1,10 @@
 ---
 title: 2026年2月2日 agent Skills
 date: 2026-02-02 09:26:44
-tags: agent
+category: AI & ML
+subcategory: Agent
+tags:
+  - agent
 ---
 
 

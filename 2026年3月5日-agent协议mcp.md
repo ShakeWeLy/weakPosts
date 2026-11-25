@@ -1,7 +1,10 @@
 ---
 title: 2026年3月5日 agent协议mcp
 date: 2026-03-05 14:43:12
-tags: agent
+category: AI & ML
+subcategory: Agent
+tags:
+  - agent
 ---
 
 

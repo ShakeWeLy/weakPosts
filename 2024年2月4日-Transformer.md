@@ -1,7 +1,10 @@
 ---
 title: 2024年2月4日 Transformer
 date: 2024-02-04 15:45:25
-tags: dl
+category: AI & ML
+subcategory: DL
+tags:
+  - dl
 ---
 
 

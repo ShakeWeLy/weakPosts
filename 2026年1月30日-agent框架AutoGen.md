@@ -1,7 +1,10 @@
 ---
 title: 2026年1月30日 agent框架AutoGen
 date: 2026-01-31 15:49:16
-tags: agent
+category: AI & ML
+subcategory: Agent
+tags:
+  - agent
 ---
 
 # 1 初步认识

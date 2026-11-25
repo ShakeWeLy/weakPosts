@@ -1,7 +1,10 @@
 ---
 title: 2025年12月22日 ConvNeXt
 date: 2025-12-24 09:10:13
-tags: model
+category: AI & ML
+subcategory: CV
+tags:
+  - model
 ---
 
 # ResNeXt

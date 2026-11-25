@@ -1,8 +1,10 @@
 ---
 title: 2026年5月14日 ModelExecutoPool
 date: 2026-05-14 13:20:04
-tags: dl
-
+category: AI & ML
+subcategory: DL
+tags:
+  - dl
 ---
 
 
